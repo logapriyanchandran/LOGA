@@ -1,0 +1,6 @@
+{
+  "name": "EximConnect",
+  "description": "Global trade marketplace and real-time communication platform for Exporters, Importers, Manufacturers, and Logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
